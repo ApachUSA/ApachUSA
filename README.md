@@ -10,9 +10,14 @@
   
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+👋 Hi, I am a .NET developer looking for my first job. My specialties include .NET technologies such as ASP.NET and WPF. In my spare time, I am deepening my programming knowledge. Have a great understanding of SQL and use it confidently in my projects. Knowledge of multiple programming patterns helps me create efficient and scalable solutions. I strive to apply these skills in exciting projects and am ready for new challenges.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.👭  
+- 🎓 I have a master's degree in **Software Engineering**
+
+- 📄 Know about my experiences 
+
+- 📫 How to reach me **1**
+
   
 
 <br/>  
