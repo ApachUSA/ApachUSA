@@ -1,4 +1,4 @@
-## **Hey 👋, I'm Vadym Lisovskyi!**  
+## **Hey 👋, I'm Vadym!**  
   
 
 <a href="https://github.com/ApachUSA" target="_blank">
