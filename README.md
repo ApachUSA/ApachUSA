@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences 
 
-- <div > 📫 How to reach me:  <a href="https://t.me/VadimLR" target="_blank"> <img alt="Static Badge" height="25" src="https://img.shields.io/badge/Telegram-badge?style=for-the-badge&logo=telegram&color=%23292929"></a> <a href="https://linkedin.com/in/ApachUA" target="_blank"><img alt="Static Badge" height="25"  src="https://img.shields.io/badge/Linkedin-badge?style=for-the-badge&logo=Linkedin&color=%23292929"></a> <a href="https://linkedin.com/in/apach-ua-1515b324b" target="_blank"><img alt="Static Badge"  height="25" src="https://img.shields.io/badge/gmail-badge?style=for-the-badge&logo=gmail&color=%23292929"></a></div>
+- <div > 📫 How to reach me:  <a href="https://t.me/VadimLR" target="_blank"> <img alt="Static Badge" height="25" src="https://img.shields.io/badge/Telegram-badge?style=for-the-badge&logo=telegram&color=%23292929"></a> <a href="https://linkedin.com/in/ApachUA" target="_blank"><img alt="Static Badge" height="25"  src="https://img.shields.io/badge/Linkedin-badge?style=for-the-badge&logo=Linkedin&color=%23292929"></a> <a href="4971779@gmail.com" target="_blank"><img alt="Static Badge"  height="25" src="https://img.shields.io/badge/gmail-badge?style=for-the-badge&logo=gmail&color=%23292929"></a></div>
 <br/>  
 
 
