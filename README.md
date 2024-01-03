@@ -1,25 +1,16 @@
 ## **Hey 👋, I'm Vadym!**  
-  
 
-<a href="https://github.com/ApachUSA" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/apach-ua-1515b324b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
 
 ### Glad to see you here!  
-👋 Hi, I am a .NET developer looking for my first job. My specialties include .NET technologies such as ASP.NET and WPF. In my spare time, I am deepening my programming knowledge. Have a great understanding of SQL and use it confidently in my projects. Knowledge of multiple programming patterns helps me create efficient and scalable solutions. I strive to apply these skills in exciting projects and am ready for new challenges.
+👨‍💻 I am a .NET developer looking for my first job. My specialties include .NET technologies such as ASP.NET and WPF. Have a great understanding of SQL and use it confidently in my projects. Knowledge of multiple programming patterns helps me create efficient and scalable solutions. I strive to apply these skills in exciting projects and am ready for new challenges. 😐
 
 - 🎓 I have a master's degree in **Software Engineering**
+  
+- 👨‍💻 In my spare time, I am deepening my programming knowledge.
 
 - 📄 Know about my experiences 
 
-- 📫 How to reach me **1**
-
-  
-
+- <div > 📫 How to reach me:  <a href="https://t.me/VadimLR" target="_blank"> <img alt="Static Badge" height="25" src="https://img.shields.io/badge/Telegram-badge?style=for-the-badge&logo=telegram&color=%23292929"></a> <a href="https://linkedin.com/in/ApachUA" target="_blank"><img alt="Static Badge" height="25"  src="https://img.shields.io/badge/Linkedin-badge?style=for-the-badge&logo=Linkedin&color=%23292929"></a> <a href="https://linkedin.com/in/apach-ua-1515b324b" target="_blank"><img alt="Static Badge"  height="25" src="https://img.shields.io/badge/gmail-badge?style=for-the-badge&logo=gmail&color=%23292929"></a></div>
 <br/>  
 
 
