@@ -8,7 +8,7 @@
   
 - 👨‍💻 In my spare time, I am deepening my programming knowledge.
 
-- 📄 Know about my experiences  <a href="https://www.linkedin.com/in/vadym-lisovskyi/overlay/1704991933055/single-media-viewer/?profileId=ACoAAD3YvA0BHkhKrI7qLcjVB43EyL7-u92jmq4" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CV-badge?style=for-the-badge&logo=info&color=%23292929">
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1CY0n8kmIuYi72NeuITTRM9JWqekTHO3Y/view?usp=sharing" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CV-badge?style=for-the-badge&logo=info&color=%23292929">
 </a>
 
 - <div > 📫 How to reach me:  <a href="https://t.me/VadimLR" target="_blank"> <img alt="Static Badge" height="25" src="https://img.shields.io/badge/Telegram-badge?style=for-the-badge&logo=telegram&color=%23292929"></a> <a href="https://www.linkedin.com/in/vadym-lisovskyi/" target="_blank"><img alt="Static Badge" height="25"  src="https://img.shields.io/badge/Linkedin-badge?style=for-the-badge&logo=Linkedin&color=%23292929"></a> <a href="mailto:4971779@gmail.com" target="_blank"><img alt="Static Badge"  height="25" src="https://img.shields.io/badge/gmail-badge?style=for-the-badge&logo=gmail&color=%23292929"></a></div>
