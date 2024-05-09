@@ -2,7 +2,7 @@
 
 
 ### Glad to see you here!  
-👨‍💻 I am a .NET developer looking for my first job. My specialties include .NET technologies such as ASP.NET and WPF. Have a great understanding of SQL and use it confidently in my projects. Knowledge of multiple programming patterns helps me create efficient and scalable solutions. I strive to apply these skills in exciting projects and am ready for new challenges. 😐
+👨‍💻 I am a Junior .NET developer. My specialties include .NET technologies such as ASP.NET and WPF. Have a great understanding of SQL and use it confidently in my projects. Knowledge of multiple programming patterns helps me create efficient and scalable solutions. 😐
 
 - 🎓 I have a master's degree in **Software Engineering**
   
